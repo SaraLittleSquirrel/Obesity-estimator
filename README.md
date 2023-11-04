@@ -10,7 +10,7 @@ The problem chosen is the prediction of the obesity level of some people given i
 
 The goal of the project is to create a classifier model and analyze the results of different classifiers.
 
-The dataset used can be found [here](https://www.sciencedirect.com/science/article/pii/S2352340919306985#bib1)
+The dataset used can be found [here](https://www.sciencedirect.com/science/article/pii/S2352340919306985#bib1).
 
 In our project we used these classifiers:
 
